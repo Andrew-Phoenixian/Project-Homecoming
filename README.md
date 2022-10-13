@@ -84,7 +84,7 @@ Game staff eller spill moderatorer har ansvar for å være der som support til d
 ###### Spill stab / Norsk Oversetter
 
 ##### Sarah Hagås
-###### Spill stab / Spansk Oversetter
+###### Spill stab / Portugisisk Oversetter
 
 ##### Griffin
 ###### Spill stab
@@ -105,3 +105,30 @@ Disse er veldig viktige for oss. Disse har ansvar for alt som har med spill hist
 
 ##### Anthony
 ###### Story Writer
+
+Voice Actor / stemme skuespiller
+=============
+
+Disse er skuespillere for våre NPC'er i verdenen.
+
+##### Anthony
+###### Voice Actor
+
+Game Translator / Oversetter
+=============
+
+Disse er viktige for oss da vårt spill er spillbart i flere språk. Disse oversetter NPC samtaler og aktiviteter som skjer rundt om i verdenen.
+
+##### Chi Hong
+###### Game Translator (Chinese Traditional/Tradisjonell Kinesisk)
+
+##### Sarah Hagås
+###### Game Translator (Portugisisk)
+
+##### Jan Martin Hagås
+###### Game Translator (Norsk)
+
+Alpha Tester
+=============
+
+Vi har 5 alpha testere men jeg lister dem ikke opp her da de ikke er offisielt i vårt stabsteam. Disse tester ut når nye oppdateringer eller ting blir introdusert inn til Project Homecoming, for å teste om alt er som det skal, eller om noe ikke helt er riktig før noe blir lansert til offentligheten.
