@@ -44,7 +44,7 @@ Vi har laget et "sequence" system som er hvordan alle quest eller interaksjoner 
 <details>
   <summary>Sequence Eksempel</summary>
   <p>
-    ```json
+    ```javascript
     [
    {
       "type":"storytellersend",
