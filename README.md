@@ -46,7 +46,9 @@ Vårt Team
 
 
 Prosjekt Ledere
+=============
 
+Dette er prosjekt ledere som delegerer oppgaver, og som har ansvar for alt backend samt vedlikehold av servere og oppetid.
 
 ##### Anders Hagås
 ###### Prosjekt Leder og Eier
