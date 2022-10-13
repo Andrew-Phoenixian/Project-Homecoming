@@ -45,13 +45,19 @@ Vårt Team
 -------------
 
 
-#### Prosjekt Ledere
+Prosjekt Ledere
+
 
 ##### Anders Hagås
 ###### Prosjekt Leder og Eier
 
 ##### Tim Laszlo
 ###### Eier og Rådgiver
+
+Assisterende Utvikler
+=============
+
+Dette er personell som jobber med småting som å sette opp oppdrag, NPC'er og annet.
 
 ##### Sebastian
 ###### Assisterende Utvikler
