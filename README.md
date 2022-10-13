@@ -66,3 +66,42 @@ Dette er personell som jobber med småting som å sette opp oppdrag, NPC'er og a
 
 ##### Sakusa
 ###### Assisterende Utvikler
+
+Community Managers
+=============
+
+Community managers eller samfunns styrere, har ansvar for alt som har med samfunn. Lage dokumentasjon som blir gitt til spillere eller å lage aktiviteter for de som spiller for å koble vårt utvikler og stabs team sammen med de som spiller.
+
+##### Ronald Li
+###### Community Manager
+
+Game Staff / Moderators
+=============
+
+Game staff eller spill moderatorer har ansvar for å være der som support til de som trenger, samt å komme med viktige innspill til hvordan Project Homecoming skal fungere. De er også de som er vakt for spillområder og hvis ting skulle gå galt, så har de server kontroll panel for å kunne restarte deler av systemet hvis noe skulle stoppe å fungere.
+
+##### Jan Martin Hagås
+###### Spill stab / Norsk Oversetter
+
+##### Sarah Hagås
+###### Spill stab / Spansk Oversetter
+
+##### Griffin
+###### Spill stab
+
+##### Nathan
+###### Spill stab
+
+##### Matthew
+###### Spill stab
+
+Story Writer / Historie Skaper
+=============
+
+Disse er veldig viktige for oss. Disse har ansvar for alt som har med spill historie å gjøre rundt spillkarakterer, interaksjoner med NPC'er og andre elementer i verdenen.
+
+##### Sarah Hagås
+###### Story Writer
+
+##### Anthony
+###### Story Writer
