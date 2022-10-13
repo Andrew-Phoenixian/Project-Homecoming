@@ -41,57 +41,19 @@ Vi har laget et "sequence" system som er hvordan alle quest eller interaksjoner 
 
 ![image](https://user-images.githubusercontent.com/42244235/195586879-e0c42603-3012-496e-8bea-fe33bcae3943.png)
 
-<details>
-  ```javascript
-    [
-   {
-      "type":"storytellersend",
-      "message":"INTRO_1",
-      "autoTranslate":true
-   },
-   {
-      "type":"storytellersend",
-      "message":"INTRO_2",
-      "autoTranslate":true
-   },
-   {
-      "type":"storytellersend",
-      "message":"INTRO_3",
-      "autoTranslate":true
-   },
-   {
-      "type":"npcsendmessage",
-      "npcid":1,
-      "message":"INTRO_4",
-      "autoTranslate":true
-   },
-   {
-      "type":"charsendmessage",
-      "message":"INTRO_5_%playerclass",
-      "autoTranslate":true
-   },
-   {
-      "type":"storytellersend",
-      "message":"INTRO_6",
-      "autoTranslate":true
-   },
-   {
-      "type":"npcsendmessage",
-      "npcid":1,
-      "message":"INTRO_7_%playerclass",
-      "autoTranslate":true,
-      "buttonAction":{
-         "action":"travel",
-         "labelText":"travelButton",
-         "buttonStyle":1,
-         "action_valueType":"class",
-         "action_value":{
-            "Hunter":"shemkahora",
-            "Warrior":"nathes",
-            "Mage":"drandorranas"
-         }
-      }
-   }
-]
-  ```
-</details>
+Vårt Team
+-------------
+
+
+#H4 Prosjekt Ledere
+#H5 Anders Hagås
+Prosjekt Leder og Eier
+
+#H5 Tim Laszlo
+Eier og Rådgiver
+
+#H5 Sebastian
+Assisterende Utvikler
+
+#H5 Sakusa
+Assisterende Utvikler
