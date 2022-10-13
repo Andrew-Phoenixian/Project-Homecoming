@@ -44,6 +44,57 @@ Vi har laget et "sequence" system som er hvordan alle quest eller interaksjoner 
 <details>
   <summary>Sequence Eksempel</summary>
   <p>
-    
+    ```json
+    [
+   {
+      "type":"storytellersend",
+      "message":"INTRO_1",
+      "autoTranslate":true
+   },
+   {
+      "type":"storytellersend",
+      "message":"INTRO_2",
+      "autoTranslate":true
+   },
+   {
+      "type":"storytellersend",
+      "message":"INTRO_3",
+      "autoTranslate":true
+   },
+   {
+      "type":"npcsendmessage",
+      "npcid":1,
+      "message":"INTRO_4",
+      "autoTranslate":true
+   },
+   {
+      "type":"charsendmessage",
+      "message":"INTRO_5_%playerclass",
+      "autoTranslate":true
+   },
+   {
+      "type":"storytellersend",
+      "message":"INTRO_6",
+      "autoTranslate":true
+   },
+   {
+      "type":"npcsendmessage",
+      "npcid":1,
+      "message":"INTRO_7_%playerclass",
+      "autoTranslate":true,
+      "buttonAction":{
+         "action":"travel",
+         "labelText":"travelButton",
+         "buttonStyle":1,
+         "action_valueType":"class",
+         "action_value":{
+            "Hunter":"shemkahora",
+            "Warrior":"nathes",
+            "Mage":"drandorranas"
+         }
+      }
+   }
+]
+    ```
   </p>
 </details>
