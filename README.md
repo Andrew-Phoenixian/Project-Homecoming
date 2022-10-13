@@ -45,16 +45,16 @@ Vårt Team
 -------------
 
 
-####Prosjekt Ledere
+#### Prosjekt Ledere
 
-#####Anders Hagås
-######Prosjekt Leder og Eier
+##### Anders Hagås
+###### Prosjekt Leder og Eier
 
-#####Tim Laszlo
-######Eier og Rådgiver
+##### Tim Laszlo
+###### Eier og Rådgiver
 
-#####Sebastian
-######Assisterende Utvikler
+##### Sebastian
+###### Assisterende Utvikler
 
-#####Sakusa
-######Assisterende Utvikler
+##### Sakusa
+###### Assisterende Utvikler
