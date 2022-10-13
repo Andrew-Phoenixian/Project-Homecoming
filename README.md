@@ -42,7 +42,6 @@ Vi har laget et "sequence" system som er hvordan alle quest eller interaksjoner 
 ![image](https://user-images.githubusercontent.com/42244235/195586879-e0c42603-3012-496e-8bea-fe33bcae3943.png)
 
 <details>
-  <summary>Sequence Eksempel</summary>
   <p>
     [
    {
