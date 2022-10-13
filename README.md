@@ -45,15 +45,16 @@ Vårt Team
 -------------
 
 
-#H4 Prosjekt Ledere
-#H5 Anders Hagås
-Prosjekt Leder og Eier
+####Prosjekt Ledere
 
-#H5 Tim Laszlo
-Eier og Rådgiver
+#####Anders Hagås
+######Prosjekt Leder og Eier
 
-#H5 Sebastian
-Assisterende Utvikler
+#####Tim Laszlo
+######Eier og Rådgiver
 
-#H5 Sakusa
-Assisterende Utvikler
+#####Sebastian
+######Assisterende Utvikler
+
+#####Sakusa
+######Assisterende Utvikler
