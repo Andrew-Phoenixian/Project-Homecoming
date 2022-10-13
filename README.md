@@ -24,3 +24,5 @@ Her starter Idix som etterhvert starter disse "Soundpods"ene, disse vil automati
 https://gyazo.com/cf1c7955e1a75677258e84a1470f246c
 
 ![image](https://user-images.githubusercontent.com/42244235/195585550-a5ee1d80-d1cf-4f46-ab71-b4069e56293b.png)
+
+https://user-images.githubusercontent.com/42244235/195585938-55cb69b2-3ea2-400f-a072-b2620297a1c4.mp4
